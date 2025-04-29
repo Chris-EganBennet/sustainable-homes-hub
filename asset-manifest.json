@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sustainable-homes-hub/static/css/main.e81ad02f.css",
+    "main.js": "/sustainable-homes-hub/static/js/main.0b37f224.js",
+    "static/js/453.ee935839.chunk.js": "/sustainable-homes-hub/static/js/453.ee935839.chunk.js",
+    "index.html": "/sustainable-homes-hub/index.html",
+    "main.e81ad02f.css.map": "/sustainable-homes-hub/static/css/main.e81ad02f.css.map",
+    "main.0b37f224.js.map": "/sustainable-homes-hub/static/js/main.0b37f224.js.map",
+    "453.ee935839.chunk.js.map": "/sustainable-homes-hub/static/js/453.ee935839.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e81ad02f.css",
+    "static/js/main.0b37f224.js"
+  ]
+}
